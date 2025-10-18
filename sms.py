@@ -3,15 +3,15 @@
  </> ---------------------------------------------
  </> Released By : @xxking
  </> ---------------------------------------------
- </> coded by -> @xxking
- </> Project -> @xxking
+ </> coded by -> Shamim Khan
+ </> Project -> shamim Khan
  </> Updated On -> 31 Jan 2025
- </> Channel -> https://t.me/x2_Hacker_Team
- </> GitHub -> @xxking
+ </> Channel -> Shamim Khan
+ </> GitHub -> Shamim Khan
  </> ---------------------------------------------
 '''
 
-#----------[ xxking Requirements ]----------#
+#----------[ Shamim Khan Requirements ]----------#
 
 import os,sys,time,random,string,json,urllib3,base64
 import logging,platform,importlib,hashlib
@@ -30,7 +30,7 @@ except:
 from requests.structures import CaseInsensitiveDict
 from rich.progress import track
 
-#----------[ xxking ASSEST ]----------#
+#----------[ Shamim khan ASSEST ]----------#
 
 def Lxj(xxking):
     for x in xxking:
@@ -82,7 +82,7 @@ except:
     address = None
 
 
-#----------[ xxking v7 LOGO ]----------#
+#----------[ shamim v7 LOGO ]----------#
 
 
 logo2 = ("""
@@ -94,10 +94,10 @@ logo2 = ("""
 """)
 logo = ("""
 \033[1;31m┏━━┓━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┏━━⑊
-\033[1;31m┃😈┃\033[47m\033[1;46m  𝗧𝗛𝗘 𝗖𝗬𝗕𝗘𝗥 @xxking    ⑆➤    @xxking  \033[40m\033[00m\x1b[1;91m┃😈┃
+\033[1;31m┃😈┃\033[47m\033[1;46m  𝗧𝗛𝗘 𝗖𝗬𝗕𝗘𝗥 @shamim Khan    ⑆➤    @xxking  \033[40m\033[00m\x1b[1;91m┃😈┃
 \033[1;31m┗━━┛━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┗━━┛""")
 def lnx():print(52*f'{g}━')
-def MAIN_x_xxking():
+def Main Shamim khan():
     os.system("clear");LijA(logo2)
     print(f"\n{lgt}{y}{itl}{bgr}</> WARNING :{stp}{lgt}{y}{unl} This {r}\"xxking SMS SPAM\"{y} Developed For {stp}")
     print(f"{lgt}{y}{itl}{unl} - Only Educational Purpose & Cyber Awerness ! {stp}")
