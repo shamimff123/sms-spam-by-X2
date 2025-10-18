@@ -97,7 +97,7 @@ logo = ("""
 \033[1;31m┃😈┃\033[47m\033[1;46m  𝗧𝗛𝗘 𝗖𝗬𝗕𝗘𝗥 @shamim Khan    ⑆➤    @xxking  \033[40m\033[00m\x1b[1;91m┃😈┃
 \033[1;31m┗━━┛━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┗━━┛""")
 def lnx():print(52*f'{g}━')
-def Main_Shamim_khan():
+def MAIN_x_xxking():
     os.system("clear");LijA(logo2)
     print(f"\n{lgt}{y}{itl}{bgr}</> WARNING :{stp}{lgt}{y}{unl} This {r}\"xxking SMS SPAM\"{y} Developed For {stp}")
     print(f"{lgt}{y}{itl}{unl} - Only Educational Purpose & Cyber Awerness ! {stp}")
